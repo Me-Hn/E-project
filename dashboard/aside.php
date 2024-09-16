@@ -61,7 +61,8 @@
                 <!-- Nav Item - Pages Collapse Menu -->
                 <li class="nav-item">
                     <a class="nav-link collapsed" href="tables.php">
-                        <i class="fas fa-fw fa-cog"></i>
+                        <!-- <i class="fas fa-fw fa-cog"></i> -->
+                        <img src="staff.ico.ico" alt="Icon description" class="icdemo" width="35" height="35">
                         <span>Staff Management</span>
                     </a>
                     <!-- <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -102,10 +103,10 @@
                         data-parent="#accordionSidebar">
                         <div class="bg-white py-2 collapse-inner rounded">
                             <h6 class="collapse-header">Custom Utilities:</h6>
-                            <a class="collapse-item" href="utilities-color.html">Colors</a>
-                            <a class="collapse-item" href="utilities-border.html">Borders</a>
-                            <a class="collapse-item" href="utilities-animation.html">Animations</a>
-                            <a class="collapse-item" href="utilities-other.html">Other</a>
+                            <a class="collapse-item" href="show_product.php">Product</a>
+                            <a class="collapse-item" href="utilities-border.html">Stock</a>
+                            <!-- <a class="collapse-item" href="utilities-animation.html">Animations</a>
+                            <a class="collapse-item" href="utilities-other.html">Other</a> -->
                         </div>
                     </div>
                 </li>
@@ -148,7 +149,7 @@
 
                 <!-- Nav Item - Tables -->
                 <li class="nav-item">
-                    <a class="nav-link" href="tables.html">
+                    <a class="nav-link" href="tables.php">
                         <i class="fas fa-fw fa-table"></i>
                         <span>Appointment Management</span></a>
                 </li>
